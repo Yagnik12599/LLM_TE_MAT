@@ -1,0 +1,420 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww21180\viewh11360\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.09, 'Ba': 0.11, 'Yb': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 835K", "output": "1.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.07, 'Ba': 0.07, 'Yb': 0.07, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.3035, 'In': 0.3, 'Co': 4, 'Sb': 12, 'F': 0.042, 'O': 0.0665\}\\nTemperature: 773K", "output": "1.75"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.08, 'La': 0.05, 'Yb': 0.04, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "1.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Al': 0.03, 'Yb': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 823K", "output": "1.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Ce': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 575 K", "output": "1.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Ba': 0.08, 'La': 0.05, 'Yb': 0.04\}\\nTemperature: 850K", "output": "1.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.08, 'La': 0.05, 'Yb': 0.04, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Ce': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 573 K", "output": "1.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.09, 'Ba': 0.11, 'Yb': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 835 K", "output": "1.6"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.01, 'La': 0.05, 'Yb': 0.07, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.6"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 1.3, 'In': 0.3, 'Co': 4, 'Sb': 12, 'Fe': 12, 'O': 19\}\\nTemperature: 850 K", "output": "1.6"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.09, 'Ba': 0.11, 'Yb': 2.05, 'Co': 4, 'Sb': 12, 'O': 3\}\\nTemperature: 880 K", "output": "1.59"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.35, 'Co': 4, 'Sb': 12\}\\nTemperature: 825 K", "output": "1.55"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.1, 'La': 0.05, 'Yb': 0.07, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "1.55"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.15, 'Yb': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 823K", "output": "1.53"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 725\\u2009K", "output": "1.5"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Ce': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.5"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.27, 'Co': 4, 'Sb': 12, 'G': 0.0072, 'O': 0.0072\}\\nTemperature: 873 K", "output": "1.5"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Ce': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 675\\u200bK", "output": "1.45"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 1000 K", "output": "1.45"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.05, 'Sr': 0.025, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800\\u202fK", "output": "1.44"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Ce': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 800\\u2009K", "output": "1.43"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'Ce': 0.15, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800K", "output": "1.43"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.06, 'Ba': 0.09, 'Yb': 0.03, 'Co': 4, 'Sb': 12\}\\nTemperature: 823 K", "output": "1.43"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.07, 'In': 0.094, 'Ce': 0.065, 'Co': 4, 'Sb': 12\}\\nTemperature: 790 K", "output": "1.43"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.025, 'Yb': 0.1, 'Sr': 0.075, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.42"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.09, 'La': 0.04, 'Yb': 0.13, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "1.42"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.07, 'Ba': 0.07, 'Yb': 0.07, 'Co': 4, 'Sb': 12\}\\nTemperature: 800K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.06, 'La': 0.05, 'Yb': 0.02, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.09, 'La': 0.04, 'Yb': 0.13, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 700K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ce': 0.1, 'In': 0.1, 'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.1, 'Ba': 0.1, 'Yb': 0.03, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.06, 'La': 0.05, 'Yb': 0.02, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.1, 'La': 0.05, 'Eu': 0.05, 'Yb': 0.2, 'Ga': 0.15, 'In': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.4, 'Yb': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 773K", "output": "1.38"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Y': 0.05, 'Ce': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 873K", "output": "1.37"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.3, 'Co': 4, 'Sb': 12, 'Si': 0.1\}\\nTemperature: 823 K", "output": "1.37"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Al': 0.3, 'Yb': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.36"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Al': 0.05, 'La': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 789\\u200bK", "output": "1.36"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 800 K", "output": "1.36"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.3, 'Co': 4, 'Sb': 12, 'Si': 0.1\}\\nTemperature: 873 K", "output": "1.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Y': 0.05, 'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 823 K", "output": "1.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.08, 'Yb': 0.09, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.08, 'Yb': 0.14, 'Eu': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.09, 'La': 0.04, 'Yb': 0.14, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "1.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.15, 'In': 0.16, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.14, 'In': 0.23, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.14, 'In': 0.23, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "1.34"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.15, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.34"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 823K", "output": "1.33"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.03, 'Ba': 0.03, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.025, 'Ba': 0.075, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.05, 'Ba': 0.05, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.09, 'La': 0.04, 'Yb': 0.14, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Li': 0.36, 'Co': 4, 'Sb': 12\}\\nTemperature: 700\\u200bK", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 823K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.075, 'Yb': 0.1, 'Sr': 0.025, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.05, 'Yb': 0.1, 'Sr': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.1, 'La': 0.05, 'Eu': 0.05, 'Yb': 0.2, 'Al': 0.1, 'Ga': 0.1, 'In': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Na': 0.48, 'Co': 4, 'Sb': 12\}\\nTemperature: 850\\u2009K", "output": "1.25"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.5, 'La': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 688K", "output": "1.25"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 823K", "output": "1.22"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 773K", "output": "1.21"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.29, 'Co': 4, 'Sb': 12\}\\nTemperature: 870 K", "output": "1.21"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.27, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 573 K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.35, 'Co': 4, 'Sb': 12\}\\nTemperature: 880 K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 575K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'Ba': 0.1, 'Al': 0.1, 'Ga': 0.1, 'In': 0.1, 'La': 0.05, 'Eu': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 800K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.21, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 873 K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.22, 'Co': 4, 'Sb': 12\}\\nTemperature: 575 K", "output": "1.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Li': 0.08, 'Ca': 0.18, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "1.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 700K", "output": "1.16"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.28, 'Co': 4, 'Sb': 12\}\\nTemperature: 873 K", "output": "1.16"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.31, 'Co': 4, 'Sb': 12\}\\nTemperature: 840K", "output": "1.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 773K", "output": "1.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.3, 'La': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 692K", "output": "1.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Li': 0.08, 'Ca': 0.18, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "1.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.1, 'La': 0.05, 'Eu': 0.05, 'Yb': 0.2, 'Ga': 0.15, 'In': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 820 K", "output": "1.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.19, 'Co': 4, 'Sb': 12\}\\nTemperature: 640 K", "output": "1.14"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 765 K", "output": "1.12"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 650 K", "output": "1.12"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 650 K", "output": "1.12"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.19, 'In': 0.07, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.24, 'Co': 4, 'Sb': 12\}\\nTemperature: 850\\u202fK", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 700K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.08, 'Ba': 0.09, 'Co': 4, 'Sb': 12\}\\nTemperature: 773K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 750 K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.1, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.06, 'Yb': 0.06, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "1.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 813 K", "output": "1.07"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.29, 'Co': 4, 'Sb': 12\}\\nTemperature: 863K", "output": "1.06"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Zn': 0.02, 'O': 0.02, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "1.05"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.1, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.05"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Li': 0.09, 'Ca': 0.14, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "1.05"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.12, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.05"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.29, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.05"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.19, 'Co': 4, 'Sb': 12\}\\nTemperature: 600\\u2009K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Pr': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 775 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ce': 0.11, 'Co': 4, 'Sb': 12\}\\nTemperature: 850\\u2009K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 823 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 673 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 750K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.35, 'Co': 4, 'Sb': 12\}\\nTemperature: 603 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.3, 'Co': 4, 'Sb': 12, 'Ag': 1\}\\nTemperature: 823 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'K': 0.38, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Tl': 0.2, 'K': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 773 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Tl': 0.3, 'K': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 773 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 600\\u2009K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 575 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.26, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'K': 0.38, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 650 K", "output": "1.0"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.51, 'Co': 4, 'Sb': 12\}\\nTemperature: 883\\u2009K", "output": "0.99"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.21, 'In': 0.04, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "0.98"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.1, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 750 K", "output": "0.97"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.4, 'Ba': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 723K", "output": "0.97"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.97"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 673K", "output": "0.96"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ga': 0.2, 'In': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 725 K", "output": "0.95"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.22, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "0.95"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Mg': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 620\\u202fK", "output": "0.95"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.95"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.16, 'Co': 4, 'Sb': 12\}\\nTemperature: 693.15 K", "output": "0.95"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.24, 'Co': 4, 'Sb': 12\}\\nTemperature: 623\\u202fK", "output": "0.94"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.18, 'Co': 4, 'Sb': 12\}\\nTemperature: 693 K", "output": "0.94"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Al': 0.1, 'Y': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "0.93"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.4, 'Co': 4, 'Sb': 12, 'Cu': 2, 'O': 1\}\\nTemperature: 573K", "output": "0.92"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sn': 0.4, 'Ba': 0.4, 'Co': 4, 'Sb': 12, 'Cu': 2, 'O': 1\}\\nTemperature: 573 K", "output": "0.92"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 1.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 750 K", "output": "0.92"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800K", "output": "0.91"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.7, 'Co': 4, 'Sb': 12\}\\nTemperature: 773\\u2009K", "output": "0.91"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 923K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Tl': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 600 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.28, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.1, 'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 782K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Tl': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 600 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Eu': 0.27, 'Co': 4, 'Sb': 12\}\\nTemperature: 850K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Tl': 0.1, 'K': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 773 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.23, 'Co': 4, 'Sb': 12\}\\nTemperature: 750 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.13, 'Yb': 0.13, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.144, 'Co': 4, 'Sb': 12\}\\nTemperature: 673.15 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 625 K", "output": "0.9"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 665K", "output": "0.88"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 723 K", "output": "0.88"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Al': 0.2, 'Y': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 850 K", "output": "0.87"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.18, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.87"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Zn': 0.04, 'O': 0.04, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.87"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.86"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.1, 'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 848 K", "output": "0.85"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.85"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 625 K", "output": "0.85"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.84"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Pb': 0.02, 'Te': 0.02, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 675 K", "output": "0.84"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.1, 'Ce': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 677\\u2009K", "output": "0.83"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.18, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.82"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.131, 'Co': 4, 'Sb': 12\}\\nTemperature: 643.15 K", "output": "0.82"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Zn': 0.08, 'O': 0.08, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.82"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ti': 1, 'O': 2, 'Ba': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 573.5 K", "output": "0.81"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sm': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 723 K", "output": "0.81"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.8, 'Co': 4, 'Sb': 12\}\\nTemperature: 673K", "output": "0.81"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.1, 'Yb': 0.1, 'La': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 848 K", "output": "0.81"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Pb': 0.12, 'Te': 0.12, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.81"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sm': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 716K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Nd': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 1000 K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sm': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 1000 K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sm': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 716K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.48, 'Co': 4, 'Sb': 12\}\\nTemperature: 720 K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.5, 'Ba': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 673K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 630K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 650 K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.3, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "0.8"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 573K", "output": "0.79"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 643 K", "output": "0.79"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 680\\u2009K", "output": "0.78"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'W': 0.03, 'Te': 0.06\}\\nTemperature: 575 K", "output": "0.78"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 823 K", "output": "0.76"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.13, 'Co': 4, 'Sb': 12\}\\nTemperature: 650\\u202fK", "output": "0.75"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.4, 'Ca': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 735\\u2009K", "output": "0.75"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.14, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.75"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.3, 'Ga': 0.02, 'Tl': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 773 K", "output": "0.72"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 1.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 673K", "output": "0.72"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.6, 'Ca': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 725\\u2009K", "output": "0.71"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 673.15 K", "output": "0.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'In': 0.1\}\\nTemperature: 625 K", "output": "0.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Te': 0.1\}\\nTemperature: 725 K", "output": "0.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ga': 0.1305, 'Co': 4, 'Sb': 12\}\\nTemperature: 600 K", "output": "0.7"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.69"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.35, 'Co': 4, 'Sb': 12\}\\nTemperature: 600 K", "output": "0.67"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Zn': 0.12, 'O': 0.12, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 690 K", "output": "0.67"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Pb': 0.08, 'Te': 0.08, 'In': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 625 K", "output": "0.65"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.64"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.64"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.11, 'Co': 4, 'Sb': 12\}\\nTemperature: 650 K", "output": "0.63"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.2, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 848 K", "output": "0.62"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'La': 0.1, 'Co': 4, 'Sb': 12.2\}\\nTemperature: 848 K", "output": "0.6"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.59"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.16, 'Co': 4, 'Sb': 12\}\\nTemperature: 673K", "output": "0.57"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.1, 'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "0.56"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.1, 'Pd': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 600 K", "output": "0.55"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sm': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 711K", "output": "0.55"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.1, 'Ce': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 677 K", "output": "0.55"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Cd': 0.38, 'Co': 4, 'Sb': 12\}\\nTemperature: 600K", "output": "0.54"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Mo': 0.03, 'S': 0.06\}\\nTemperature: 600 K", "output": "0.53"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 632 K", "output": "0.53"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 680 K", "output": "0.53"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.53"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 632 K", "output": "0.529"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 773K", "output": "0.5246"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Gd': 0.12, 'Co': 4, 'Sb': 12\}\\nTemperature: 600K", "output": "0.52"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 780 K", "output": "0.51"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 673 K", "output": "0.51"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 657 K", "output": "0.51"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 650 K", "output": "0.5"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 723 K", "output": "0.49"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Nd': 0.17, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.48"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Gd': 0.09, 'Co': 4, 'Sb': 12\}\\nTemperature: 600 K", "output": "0.48"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Yb': 0.004413, 'Fe': 0.005587\}\\nTemperature: 723 K", "output": "0.48"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800K", "output": "0.45"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800K", "output": "0.45"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'G': 1\}\\nTemperature: 650 K", "output": "0.45"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Nd': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.45"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 823 K", "output": "0.44"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.44"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sm': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 619 K", "output": "0.44"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.03, 'Yb': 0.03, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "0.43"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 323K", "output": "0.427"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 673K", "output": "0.41"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.41"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.41"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'W': 0.02, 'O': 0.06\}\\nTemperature: 650K", "output": "0.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'W': 0.02, 'O': 0.06\}\\nTemperature: 650K", "output": "0.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Eu': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 1000 K", "output": "0.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 670 K", "output": "0.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'W': 1, 'O': 3\}\\nTemperature: 650 K", "output": "0.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800 K", "output": "0.4"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 672\\u2009K", "output": "0.38"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Yb': 0.0022065, 'Fe': 0.0027935\}\\nTemperature: 723 K", "output": "0.38"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.08, 'Yb': 0.09, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.38"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.08, 'Yb': 0.14, 'Eu': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.38"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Mn': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 373 K", "output": "0.36"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 823 K", "output": "0.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 500\\u2005K", "output": "0.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Mo': 1, 'S': 2\}\\nTemperature: 650 K", "output": "0.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Yb': 0.00141216, 'Fe': 0.00178784\}\\nTemperature: 723 K", "output": "0.35"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.9, 'Co': 4, 'Sb': 12\}\\nTemperature: 773 K", "output": "0.34"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700 K", "output": "0.34"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Mg': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 620\\u202fK", "output": "0.33"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'G': 1, 'O': 1\}\\nTemperature: 700 K", "output": "0.325"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Te': 0.06\}\\nTemperature: 480 K", "output": "0.32"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 800 K", "output": "0.32"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700 K", "output": "0.32"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'K': 0.22, 'Co': 4, 'Sb': 12\}\\nTemperature: 680 K", "output": "0.31"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 573 K", "output": "0.31"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ga': 0.0405, 'Co': 4, 'Sb': 12\}\\nTemperature: 600 K", "output": "0.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Li': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 500 K", "output": "0.3"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Li': 0.09, 'Ca': 0.14, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.27"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 632 K", "output": "0.265"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ce': 0.13, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.26"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700 K", "output": "0.26"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 800.15 K", "output": "0.26"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 400 K", "output": "0.258"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Mm': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.25"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 1, 'Co': 4, 'Sb': 12\}\\nTemperature: 1000 K", "output": "0.24"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Cu': 0.006, 'Ni': 0.004\}\\nTemperature: 550K", "output": "0.23"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.18, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.23"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.04, 'Co': 4, 'Sb': 12\}\\nTemperature: 550 K", "output": "0.23"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Cl': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 700K", "output": "0.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Zr': 0.05, 'O': 0.1\}\\nTemperature: 723 K", "output": "0.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700 K", "output": "0.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'C': 60\}\\nTemperature: 650 K", "output": "0.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ca': 0.14, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.2"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 773K", "output": "0.19"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ga': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 500 K", "output": "0.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Y': 0.18, 'Co': 4, 'Sb': 12\}\\nTemperature: 623 K", "output": "0.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'S': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 623 K", "output": "0.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 650 K", "output": "0.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 723 K", "output": "0.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 500 K", "output": "0.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Y': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 623 K", "output": "0.18"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 550K", "output": "0.17"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.6, 'Te': 0.9, 'Co': 4, 'Sb': 12\}\\nTemperature: 523K", "output": "0.17"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 611K", "output": "0.17"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 610 K", "output": "0.17"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.17"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 710 K", "output": "0.17"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.16"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700 K", "output": "0.16"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 340 K", "output": "0.16"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 723.15 K", "output": "0.16"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 673 K", "output": "0.154"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Si': 1, 'C': 1\}\\nTemperature: 650K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 500 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 716 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 650 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 523 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 673 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Yb': 0.00141216, 'Fe': 0.00178784\}\\nTemperature: 723 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 340 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.12, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.13, 'Co': 3, 'Fe': 1, 'Sb': 9, 'As': 2.9\}\\nTemperature: 770 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Cl': 0.6, 'Co': 4, 'Sb': 12\}\\nTemperature: 700 K", "output": "0.15"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sr': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 800\\u200bK", "output": "0.14"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.14"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Zn': 0.02, 'O': 0.02\}\\nTemperature: 595 K", "output": "0.14"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 4, 'Sb': 12\}\\nTemperature: 775 K", "output": "0.14"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 340 K", "output": "0.14"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 560 K", "output": "0.14"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 595 K", "output": "0.13"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.09, 'Co': 4, 'Sb': 12\}\\nTemperature: 365 K", "output": "0.13"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Dy': 0.4, 'Co': 4, 'Sb': 12\}\\nTemperature: 773 K", "output": "0.12"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 523 K", "output": "0.12"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.35, 'Co': 4, 'Sb': 12\}\\nTemperature: 340 K", "output": "0.12"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 400 K", "output": "0.115"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 373 K", "output": "0.113"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 853 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 773 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 650 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 823.15 K", "output": "0.11"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700 K", "output": "0.106"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'In': 0.8, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 650 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 710 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 669 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 883 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 650 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.15, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.44, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 673 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Li': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Ba': 0.24, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.1"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 673 K", "output": "0.095"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 450\\u202fK", "output": "0.09"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.25, 'Co': 4, 'Sb': 12\}\\nTemperature: 600K", "output": "0.09"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 611 K", "output": "0.09"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.09"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'C': 0.0035\}\\nTemperature: 700 K", "output": "0.09"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.09"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 473 K", "output": "0.0882"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 632 K", "output": "0.087"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 650K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 4, 'Sb': 12\}\\nTemperature: 400K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 623K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 723 K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'C': 0.0015\}\\nTemperature: 700 K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'C': 0.0055\}\\nTemperature: 700 K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.35, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Sm': 0.1, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.08"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 673.15 K", "output": "0.075"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Y': 0.1, 'Co': 1, 'Sb': 3\}\\nTemperature: 773K", "output": "0.07"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 723.15 K", "output": "0.067"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Mn': 0.2, 'Co': 4, 'Sb': 12\}\\nTemperature: 523 K", "output": "0.06"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 773 K", "output": "0.06"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 700K", "output": "0.06"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 553 K", "output": "0.0576"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.05"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 673 K", "output": "0.05"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'La': 0.5, 'Co': 4, 'Sb': 12\}\\nTemperature: 550 K", "output": "0.04"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.04"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 623 K", "output": "0.04"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 823.15 K", "output": "0.04"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Hf': 0.257, 'Co': 4, 'Sb': 12\}\\nTemperature: 577 K", "output": "0.04"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.03"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 340 K", "output": "0.03"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Zn': 0.02, 'O': 0.02\}\\nTemperature: 300 K", "output": "0.03"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 750 K", "output": "0.028"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 365 K", "output": "0.027"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.023"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 400 K", "output": "0.0205"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 323 K", "output": "0.02"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Yb': 0.05, 'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.02"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Ag': 0.2\}\\nTemperature: 730 K", "output": "0.019"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Ag': 0.04\}\\nTemperature: 830 K", "output": "0.017"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 4, 'Sb': 12\}\\nTemperature: 632K", "output": "0.016"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.016"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Ce': 0.03, 'O': 0.06\}\\nTemperature: 300 K", "output": "0.0156"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.0153"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 4, 'Sb': 12\}\\nTemperature: 340 K", "output": "0.015"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 298 K", "output": "0.011"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 450 K", "output": "0.01"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.01"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.01"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 4, 'Sb': 12\}\\nTemperature: 340 K", "output": "0.01"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.008"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 4, 'Sb': 12\}\\nTemperature: 300 K", "output": "0.005"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 600 K", "output": "0.005"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 773 K", "output": "0.0035"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.0025"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.0024"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3\}\\nTemperature: 300 K", "output": "0.0022"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Ce': 0.01, 'O': 0.02\}\\nTemperature: 300 K", "output": "0.0016"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Co': 1, 'Sb': 3, 'Ce': 0.05, 'O': 0.1\}\\nTemperature: 300 K", "output": "0.0006"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.75, 'Co': 4, 'Sb': 12\}\\nTemperature: 632 K", "output": "0.0002797"\}\
+\{"instruction": "Given the composition and temperature, predict the figure of merit.", "input": "Composition: \{'Bi': 0.75, 'Co': 4, 'Sb': 12\}\\nTemperature: 400 K", "output": "3.604e-06"\}\
+}
