@@ -1,4 +1,4 @@
-# Large Language Model-Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb<sub>3</sub>-Based Skutterudites
+# Large language model-assisted discovery of dopants for enhanced thermoelectric performance in CoSb₃-based skutterudites
 
 <p align="justify">
 We present a data-driven approach for accelerating the discovery of high-performance CoSb₃-based skutterudites
